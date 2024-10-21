@@ -1,0 +1,1 @@
+System.register([],(function(t,e){"use strict";return{execute:function(){t("g",(function(t){var e=window.getComputedStyle(t,null);return{width:Number(e.width.split("px")[0]),height:Number(e.height.split("px")[0])}}))}}}));
